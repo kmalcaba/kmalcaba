@@ -4,6 +4,7 @@
 - 📫 Reach me at kmalcaba (at) live (dot) com ✨
 
 Check out my repositories @ odin-projects and frontendmentor for some samples of how I code.
+
 My portfolio site is a work in progress at the moment 👩🏽‍💻
 
 <!---
