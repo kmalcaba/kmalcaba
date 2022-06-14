@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kirsten
-- 👀 I’m interested in React and front end development in general
+- 👋 Hi, I’m Kirsten!
+- 💙 I like developing with ReactJS and styled-components, but I'm always open to learning 🤓
 - 🌱 I’m currently deep diving on React and best practices in front end development
 - 📫 Reach me at kmalcaba (at) live (dot) com ✨
 
