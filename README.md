@@ -3,9 +3,7 @@
 - 🌱 I’m currently deep diving on React and best practices in front end development
 - 📫 Reach me at kmalcaba (at) live (dot) com ✨
 
-Check out my repositories @ odin-projects and frontendmentor for some samples of how I code.
-
-My portfolio site is a work in progress at the moment 👩🏽‍💻
+Check out my portfolio at https://kmalcaba.github.io !
 
 <!---
 kmalcaba/kmalcaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
